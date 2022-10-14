@@ -16,7 +16,7 @@ namespace CHECK_LIST_DE_PROCESSO.Class
             set { _ROTA = value; }
         }
         */
-        private static string _ROTA = "Data Source = 192.168.149.5\\SQLEXPRESSMAO49; Initial Catalog = SMT; Persist Security Info=True;User ID = crud1; Password=2B2XWXMV";
+        private static string _ROTA = "";
         public static string ROTA
         {
             get { return _ROTA; }
